@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "tat.mukhutdinov.lesson10"
-    compileSdk = 34
+    namespace = "tat.mukhutdinov.lesson9"
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "tat.mukhutdinov.lesson10"
+        applicationId = "tat.mukhutdinov.lesson9"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 

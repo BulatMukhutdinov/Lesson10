@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson10.model
+package tat.mukhutdinov.lesson9.model
 
 /**
  * [Dessert] is the data class to represent the Dessert imageId, price, and startProductionAmount

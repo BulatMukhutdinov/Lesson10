@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson10
+package tat.mukhutdinov.lesson9
 
 import android.content.ActivityNotFoundException
 import android.content.Context
@@ -51,9 +51,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.content.ContextCompat
-import tat.mukhutdinov.lesson10.data.Datasource
-import tat.mukhutdinov.lesson10.model.Dessert
-import tat.mukhutdinov.lesson10.ui.theme.DessertClickerTheme
+import tat.mukhutdinov.lesson9.data.Datasource
+import tat.mukhutdinov.lesson9.model.Dessert
+import tat.mukhutdinov.lesson9.ui.theme.DessertClickerTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

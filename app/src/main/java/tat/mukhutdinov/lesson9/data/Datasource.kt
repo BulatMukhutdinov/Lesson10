@@ -1,7 +1,7 @@
-package tat.mukhutdinov.lesson10.data
+package tat.mukhutdinov.lesson9.data
 
-import tat.mukhutdinov.lesson10.R
-import tat.mukhutdinov.lesson10.model.Dessert
+import tat.mukhutdinov.lesson9.R
+import tat.mukhutdinov.lesson9.model.Dessert
 
 /**
  * [Datasource] generates a list of [Dessert]
